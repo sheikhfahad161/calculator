@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R4553bd42feabd87a56452be4117a25eb?rik=6Nz5nZXqhyishw&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f01%2fTechnology-Wallpaper.jpg&ehk=CnrThnwPlL4FLfCzXhqHdJ150b31glZo%2fqKt8mfHD18%3d&risl=&pid=ImgRaw);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+.main{
+    background-color: khaki;
+    margin: 2px auto;
+    margin-top: 60px;
+    width: 400px;
+    height: 500px;
+    border: 2px solid;
+}
+.sec-main > input{
+    width: 392px;
+    height: 62px;
+}
+.butn{
+    background-color: darkslategray;
+    width: 97px;
+    height: 108px;
+    font-size: 25px;
+}
+.sec-main > input::placeholder{
+    font-size: 25px;
+}
